@@ -8,7 +8,7 @@ public class RemoveX {
             if (input.charAt(0) == 'x') {
                 return "";
             } else
-                return input;
+            return input;
         }
         if (input.charAt(0) == 'x') {
             input = input.substring(1);
